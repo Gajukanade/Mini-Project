@@ -265,7 +265,7 @@ contact form */
     margin: 14px;
     text-align: center;
   }
-  .content .left-side .details i{
+  .contactcontent .left-side .details i{
     font-size: 30px;
     color: #3e2093;
     margin-bottom: 10px;
@@ -348,7 +348,7 @@ contact form */
     .contactcontainer .contactcontent{
       flex-direction: column-reverse;
     }
-   .contactcontainer .content .left-side{
+   .contactcontainer .contactcontent .left-side{
      width: 100%;
      flex-direction: row;
      margin-top: 40px;
